@@ -2,12 +2,15 @@ Happy Homework on day 1!
 
 .gitignore files:
 
-A way to identify files or directories that you do not want or do not
-need to be part of the source control that Git provides.
+A way to identify files or directories that are not important to,
+or do not need to be part of the source control that Git provides.
 
 You can set up 'rules' for this globally, through parent directories
 and within the folder that contains a Git repository itself, and
 there is a hierarchy for these rules.
+
+They can be identified by file/directory name or by file type (and 
+using a * wildcard).
 
 useful link with further information:
 https://git-scm.com/docs/gitignore
